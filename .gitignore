@@ -1,5 +1,10 @@
 # Пакетный менеджер.
 vendor
+composer.lock
 
 # Среды разработки.
 vscode
+
+# PHPUnit.
+.phpunit.result.cache
+phpunit.xml.bak

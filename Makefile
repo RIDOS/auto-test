@@ -2,7 +2,7 @@ console:
 	@php-console
 
 test:
-	vendor/bin/phpunit --colors=always tests
+	clear && vendor/bin/phpunit tests
 
 psr-check:
 	vendor/bin/phpcs ./src/SalaryCalculator
