@@ -7,7 +7,9 @@ use App\SalaryCalculator;
 
 /**
  * Тестирование класса SalaryCalculator.
- * 
+ *
+ * @group Deprecated
+ *
  * @author a.imaev <smartsites.dev27@gmail.com>
  */
 class SalaryCalculatorTest extends TestCase
