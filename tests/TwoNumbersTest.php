@@ -7,7 +7,9 @@ use PHPUnit\Framework\TestCase;
 
 /**
  * Тестирование класса TwoNumbers.
- * 
+ *
+ *  @group Deprecated
+ *
  * @author a.imaev <smartsites.dev27@gmail.com>
  */
 class TwoNumbersTest extends TestCase
